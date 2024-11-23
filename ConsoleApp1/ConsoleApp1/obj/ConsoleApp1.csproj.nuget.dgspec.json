@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jsluis/Documents/GitHub/dotnet-proj/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {}
+    "C:\\Users\\joesl\\Documents\\GitHub\\dotnet-proj\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/Users/jsluis/Documents/GitHub/dotnet-proj/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {
+    "C:\\Users\\joesl\\Documents\\GitHub\\dotnet-proj\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jsluis/Documents/GitHub/dotnet-proj/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\joesl\\Documents\\GitHub\\dotnet-proj\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/Users/jsluis/Documents/GitHub/dotnet-proj/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
-        "packagesPath": "/Users/jsluis/.nuget/packages/",
-        "outputPath": "/Users/jsluis/Documents/GitHub/dotnet-proj/ConsoleApp1/ConsoleApp1/obj/",
+        "projectPath": "C:\\Users\\joesl\\Documents\\GitHub\\dotnet-proj\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\joesl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joesl\\Documents\\GitHub\\dotnet-proj\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/jsluis/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\joesl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
