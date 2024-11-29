@@ -1,0 +1,6 @@
+C:\Users\joesl\Documents\GitHub\dotnet-proj\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\joesl\Documents\GitHub\dotnet-proj\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joesl\Documents\GitHub\dotnet-proj\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\joesl\Documents\GitHub\dotnet-proj\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\joesl\Documents\GitHub\dotnet-proj\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\joesl\Documents\GitHub\dotnet-proj\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.sourcelink.json
