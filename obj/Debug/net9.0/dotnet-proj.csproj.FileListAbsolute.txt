@@ -1,0 +1,15 @@
+/Users/jsluis/Documents/GitHub/dotnet-proj/bin/Debug/net9.0/dotnet-proj
+/Users/jsluis/Documents/GitHub/dotnet-proj/bin/Debug/net9.0/dotnet-proj.deps.json
+/Users/jsluis/Documents/GitHub/dotnet-proj/bin/Debug/net9.0/dotnet-proj.runtimeconfig.json
+/Users/jsluis/Documents/GitHub/dotnet-proj/bin/Debug/net9.0/dotnet-proj.dll
+/Users/jsluis/Documents/GitHub/dotnet-proj/bin/Debug/net9.0/dotnet-proj.pdb
+/Users/jsluis/Documents/GitHub/dotnet-proj/obj/Debug/net9.0/dotnet-proj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jsluis/Documents/GitHub/dotnet-proj/obj/Debug/net9.0/dotnet-proj.AssemblyInfoInputs.cache
+/Users/jsluis/Documents/GitHub/dotnet-proj/obj/Debug/net9.0/dotnet-proj.AssemblyInfo.cs
+/Users/jsluis/Documents/GitHub/dotnet-proj/obj/Debug/net9.0/dotnet-proj.csproj.CoreCompileInputs.cache
+/Users/jsluis/Documents/GitHub/dotnet-proj/obj/Debug/net9.0/dotnet-proj.sourcelink.json
+/Users/jsluis/Documents/GitHub/dotnet-proj/obj/Debug/net9.0/dotnet-proj.dll
+/Users/jsluis/Documents/GitHub/dotnet-proj/obj/Debug/net9.0/refint/dotnet-proj.dll
+/Users/jsluis/Documents/GitHub/dotnet-proj/obj/Debug/net9.0/dotnet-proj.pdb
+/Users/jsluis/Documents/GitHub/dotnet-proj/obj/Debug/net9.0/dotnet-proj.genruntimeconfig.cache
+/Users/jsluis/Documents/GitHub/dotnet-proj/obj/Debug/net9.0/ref/dotnet-proj.dll
