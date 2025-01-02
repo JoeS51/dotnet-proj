@@ -19,6 +19,9 @@
             Console.WriteLine();
             Console.WriteLine("print game");
             break;
+        case "2":
+            Console.WriteLine("Print all games");
+            break;
         default:
             Console.WriteLine("test");
             return;
